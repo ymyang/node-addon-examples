@@ -11,6 +11,10 @@
     {
       "target_name": "callbacks",
       "sources": [ "src/callbacks/callbacks.cc"]
+    },
+    {
+      "target_name": "objfactory",
+      "sources": [ "src/objfactory/objfactory.cc"]
     }
   ]
 }
