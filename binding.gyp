@@ -2,39 +2,39 @@
   "targets": [
     {
       "target_name": "hello",
-      "sources": [ "src/hello/hello.cc" ]
+      "sources": [ "src/1_hello/hello.cc" ]
     },
     {
       "target_name": "args",
-      "sources": [ "src/args/args.cc" ]
+      "sources": [ "src/2_args/args.cc" ]
     },
     {
       "target_name": "callbacks",
-      "sources": [ "src/callbacks/callbacks.cc" ]
+      "sources": [ "src/3_callbacks/callbacks.cc" ]
     },
     {
       "target_name": "objfactory",
-      "sources": [ "src/objfactory/objfactory.cc" ]
+      "sources": [ "src/4_objfactory/objfactory.cc" ]
     },
     {
       "target_name": "funfactory",
-      "sources": [ "src/funfactory/funfactory.cc" ]
+      "sources": [ "src/5_funfactory/funfactory.cc" ]
     },
     {
       "target_name": "objwrap",
-      "sources": [ "src/objwrap/objwrap.cc", "src/objwrap/myobject.cc" ]
+      "sources": [ "src/6_objwrap/objwrap.cc", "src/6_objwrap/myobject.cc" ]
     },
     {
       "target_name": "factorywrap",
-      "sources": [ "src/factorywrap/factorywrap.cc", "src/factorywrap/myobject.cc" ]
+      "sources": [ "src/7_factorywrap/factorywrap.cc", "src/7_factorywrap/myobject.cc" ]
     },
     {
       "target_name": "passingwraped",
-      "sources": [ "src/passingwraped/passingwraped.cc", "src/passingwraped/myobject.cc" ]
+      "sources": [ "src/8_passingwraped/passingwraped.cc", "src/8_passingwraped/myobject.cc" ]
     },
     {
       "target_name": "exithooks",
-      "sources": [ "src/exithooks/exithooks.cc" ]
+      "sources": [ "src/9_exithooks/exithooks.cc" ]
     }
   ]
 }
