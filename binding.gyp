@@ -31,6 +31,10 @@
     {
       "target_name": "passingwraped",
       "sources": [ "src/passingwraped/passingwraped.cc", "src/passingwraped/myobject.cc" ]
+    },
+    {
+      "target_name": "exithooks",
+      "sources": [ "src/exithooks/exithooks.cc" ]
     }
   ]
 }
