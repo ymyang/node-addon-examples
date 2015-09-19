@@ -15,6 +15,10 @@
     {
       "target_name": "objfactory",
       "sources": [ "src/objfactory/objfactory.cc"]
+    },
+    {
+      "target_name": "funfactory",
+      "sources": [ "src/funfactory/funfactory.cc"]
     }
   ]
 }
