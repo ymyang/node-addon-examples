@@ -1,8 +1,8 @@
 /**
  * Created by yang on 2015/9/19.
  */
-// test.js
-var createObject = require('../../build/Release/factorywrap');
+//var createObject = require('../../build/Release/factorywrap');
+var addon = require('bindings')('factorywrap');
 
 var obj = createObject(10);
 console.log( obj.plusOne() ); // 11
