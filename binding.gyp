@@ -23,6 +23,10 @@
     {
       "target_name": "objwrap",
       "sources": [ "src/objwrap/objwrap.cc", "src/objwrap/myobject.cc" ]
+    },
+    {
+      "target_name": "factorywrap",
+      "sources": [ "src/factorywrap/factorywrap.cc", "src/factorywrap/myobject.cc" ]
     }
   ]
 }
