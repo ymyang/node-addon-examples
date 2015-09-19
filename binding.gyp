@@ -27,6 +27,10 @@
     {
       "target_name": "factorywrap",
       "sources": [ "src/factorywrap/factorywrap.cc", "src/factorywrap/myobject.cc" ]
+    },
+    {
+      "target_name": "passingwraped",
+      "sources": [ "src/passingwraped/passingwraped.cc", "src/passingwraped/myobject.cc" ]
     }
   ]
 }
